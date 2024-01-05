@@ -1,7 +1,8 @@
 repo_name: yuliroth/learn-rails
 report_id: eaee5d1ffdd7e9674feeb7d2ae3e549b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-22T15:08:12+00:00'
+timestamp: '2024-01-05T08:35:54+00:00'
 requested_by: yuliroth
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/yuliroth/learn-rails
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/yuliroth/learn-rails
   detection_source: Repo Metadata
 - name: Rails
   description: Web development that doesn't hurt
@@ -37,7 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/990/x57_Lorv.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -50,6 +53,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -61,6 +65,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -73,6 +78,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuliroth/learn-rails
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -93,6 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -105,6 +113,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -116,6 +125,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/config/environments/production.rb
   detection_source: config/environments/production.rb
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -125,6 +135,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/public/404.html
   detection_source: public/404.html
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -139,7 +150,7 @@ tools:
   category: Application Utilities
   sub_category: Web Forms
   image_url: https://img.stackshare.io/service/4124/simple1.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 08:44:16.000000000 Z
@@ -151,6 +162,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -164,7 +176,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19224/default_90da4313847baa579409c050c1ebb8de5a6e0fbc.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 08:44:16.000000000 Z
@@ -185,7 +197,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18896/default_9386886dd1c6c396a11bd4b49732afb9ec444f8d.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -198,6 +210,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19229/default_df0c87c1d1c9c662c2ad960d8e93130abb553ed2.png
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -211,7 +224,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19607/default_ad0710c65b106932707389deb3b2e0b93a1ef7b6.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 08:44:16.000000000 Z
@@ -225,7 +238,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19337/default_849f13df0460b1a68f411e3feb501eecb9826bba.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 08:44:16.000000000 Z
@@ -239,7 +252,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -254,7 +267,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18864/default_96cb61a9c0f8ef41b80df83209dca4f4c229184e.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -311,7 +324,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -325,7 +338,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19540/default_218dae89c7df5d5855caf68241b819cfe024f92e.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 08:44:16.000000000 Z
@@ -339,7 +352,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18876/default_d416e715a80ce80ae31b87cff032f5873c8a9d2a.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -353,7 +366,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18988/default_c2edad6777219a9d77730c33c0ffc3c4598d107f.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 08:44:16.000000000 Z
@@ -375,7 +388,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18820/default_6564ae059af6c4ea7065fd2329370c7a05341cf8.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -389,7 +402,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18900/default_f0ad2b1ffbe10fdd866f9f8e5f812599d9e8085b.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-24 22:05:49.000000000 Z
@@ -403,7 +416,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19167/default_f74adb1c8d95c3268ea94f5ba9bbb60a0bc900ed.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
@@ -418,7 +431,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18967/default_20d16c1471b93397c8ef93b19baf0989f59663c0.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/yuliroth/learn-rails/blob/master/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: yuliroth
   last_updated_on: 2013-11-18 14:40:59.000000000 Z
