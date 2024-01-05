@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuliroth/learn-rails is built on the following main stack:
+
 - [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Heroku](https://www.heroku.com) – Platform as a Service
 - [Ruby](https://www.ruby-lang.org) – Languages
@@ -14,11 +15,13 @@ yuliroth/learn-rails is built on the following main stack:
 - [Simple Form](https://github.com/plataformatec/simple_form) – Web Forms
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuliroth/learn-rails is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
@@ -31,14 +34,15 @@ yuliroth/learn-rails is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/4124/simple1.png' alt='Simple Form'/> [Simple Form](https://github.com/plataformatec/simple_form) – Web Forms
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuliroth/learn-rails](https://github.com/yuliroth/learn-rails)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|28<br/>Tools used|11/22/23 <br/>Report generated|
+|28<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
